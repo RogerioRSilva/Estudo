@@ -1,0 +1,27 @@
+
+
+p{
+    color: brown;
+}
+
+h2{
+    color: red;
+    align-self: center;
+}
+
+#titulo{
+    width: 75%;
+    margin: 0 auto;
+    background: black;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#resultado{
+    width: 75%;
+    background: #f2f4f5;
+    margin: 0 auto;
+    
+}
