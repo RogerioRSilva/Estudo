@@ -1,0 +1,27 @@
+a {
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+/*Links Visitados*/
+a:visited {
+    color: blue;
+}
+
+/*Links Não Visitados*/
+a:link {
+    color: blue;
+
+}
+
+/*Efeito de mudança quando passar o mouse sobre o link.*/
+a:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+/*Efeito de link que está ativo ao clicar e segurar*/
+a:active {
+    color: yellow;
+    background-color: brown;
+}

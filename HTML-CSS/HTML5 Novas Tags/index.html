@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Novas Tags HTML5</title>
+</head>
+
+<body>
+    <form action="">
+        <label for="nome">Nome</label>
+        <input type="text" name="" id="nome" autofocus>
+        <br><br>
+        <!--O recurdo required é usado pra marcar o campo como obrigatório
+        O recurdo autofocus direciona o foco pro primeio ou próximo item 
+        -->
+        <label for="email">Email</label>
+        <input type="email" name="" id="email" required>
+        <br><br>
+        <!--O recurso number abilita a opção de numeros e vc pode setar o minimo com min e o máximo com max
+        usando esse recurso e colocando como required o memso apresenta uma mensagem de erro e não deixa enviar
+        recurso STEP vc colocar pra poder pular de 2 em 2 ou 5 em 5 como queira. 
+        -->
+        <label for="numero">Número</label>
+        <input type="number" name="" id="numero" required min="1" max="20" step="5">
+        <br><br>
+
+        <!--o recurso PLACEHOLDER mostra um texto dentro da caixa de inserção de dados e serve como exemplo
+        de preenchimento.-->
+        <label for="url">URL</label>
+        <input type="url" name="" id="url" placeholder="ex: http://www.">
+        <br><br>
+        <!--O recurso search é usado como pesquisa e ao digitar aparece icone de excluir pesquisa no campo-->
+        <label for="pesquisa">Pesquisa</label>
+        <input type="search" name="" id="pesquisa">
+        <br><br>
+        <!--O Recurso RANGE é usado como uma barra deslisante. -->
+        <label for="Range">Range</label>
+        <input type="range" name="" id="range" min="1" max="20" value="5">
+        <br><br>
+        <!--O Recurso DATE utilizado para preenchimento de datas -->
+        <label for="data">Data</label>
+        <input type="date" name="" id="data">
+        <br><br>
+
+        <!--O Recurso COLOR utilizado para preenchimento de cores -->
+        <label for="cor">Cor</label>
+        <input type="color" name="" id="cor">
+        <br><br>
+
+        <input type="submit" name="" value="Enviar">
+    </form>
+</body>
+
+</html>

@@ -1,0 +1,35 @@
+/*Herança e Especificidade*/
+
+body{
+    color: red;
+    border: 1px solid blue;
+ 
+}
+
+.pagina{
+ 
+}
+/*Especificidade*/
+*{
+    color: red;
+}
+h2{
+    color: blue;
+}
+.pagina h2{
+ color: green;
+}
+/*O ID é mais específico que a class 
+sendo sempre aplicado primeiro.*/
+h2#amarelo{
+    color:yellow;
+}
+
+p{
+    color: blue !important;
+    /*Utilizado para priorizar a configuração*/
+}
+
+p{
+    color: green;
+}

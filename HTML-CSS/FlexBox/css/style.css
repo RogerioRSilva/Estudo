@@ -1,0 +1,15 @@
+#conteudo{
+    background: #dcdcdc;
+    height: 400px;
+    display: flex;
+    flex-direction:row ;
+    flex-wrap: wrap;
+}
+
+.item{
+    background: #fff;
+    border: 1px solid red;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}

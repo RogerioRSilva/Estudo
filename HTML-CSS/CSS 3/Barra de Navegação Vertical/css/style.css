@@ -1,0 +1,97 @@
+/******************************
+barra de navegação vertical
+ul{
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    padding: 10px 20px;
+    background: url(../img/seta.png) left center;
+    background-repeat: no-repeat ;
+}
+*/
+/*
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+ul a {
+    width: 200px;
+    height: 40px;
+    border-bottom: 1px solid #f1f2f3;
+    display: block;
+    color: #000;
+    text-decoration: none;
+    text-indent: 40px;
+    line-height: 40px;
+    background: #f7b600 url(../img/menu.png) no-repeat;
+
+}
+
+a:hover,
+{
+background-position: right bottom;
+background-color: #f99200;
+color: #FFF;
+}
+/*Marcação da pagina atual
+#home #navegacao .home a,
+#sobre #navegacao .sobre a,
+#servicos #navegacao .servicos a,
+#noticias #navegacao .noticias a,
+#contato #navegacao .contato a {
+    background-position: right bottom;
+    background-color: #f99200;
+    color: #FFF;
+}
+*/
+/*=================================================*/
+/*Barra de Navegação Horizontal*/
+ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    
+    width: 720px;
+    background: #159cb0 url(../img/fundo-horizontal.png) repeat-x;
+    float: left;
+}
+
+ul li{
+    
+    float: left;
+    
+}
+ul a{
+    display: block;
+    text-decoration: none;
+    padding: 0 2em;
+    line-height: 2.2em;
+    color: #fff;
+    background: url(../img/divisor.png) repeat-y;
+    
+}
+
+ul .primeiro a{
+    background: none;
+}
+
+ul a:hover{
+    color: #085662;
+    background: #44cade;
+}
+/*Marcação da pagina atual*/
+#home #navegacao .home a,
+#sobre #navegacao .sobre a,
+#servicos #navegacao .servicos a,
+#noticias #navegacao .noticias a,
+#contato #navegacao .contato a {
+    background-position: right bottom;
+    color: #085662;
+    background: #44cade;
+}

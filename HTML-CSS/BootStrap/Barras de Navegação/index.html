@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="pt-br">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=, shrink-to-fit=no">
+  <title>Elementos Flutuantes - Bootstrap</title>
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+
+<body>
+
+  <h2>Navegação Simples</h2>
+  <ul class="nav nav-pills">
+    <li class="nav-item "><a href="" class="nav-link">Home</a></li>
+    <li class="nav-item"><a href="" class="nav-link active">Sobre</a></li>
+    <li class="nav-item"><a href="" class="nav-link">Serviços</a></li>
+  </ul>
+  <br><br>
+
+  <h2>Navegação Abas Horizontal </h2>
+  <ul class="nav nav-tabs justify-content-center">
+    <li class="nav-item "><a href="" class="nav-link">Home</a></li>
+    <li class="nav-item"><a href="" class="nav-link active">Sobre</a></li>
+    <li class="nav-item"><a href="" class="nav-link">Serviços</a></li>
+    <li class="nav-item"><a href="" class="nav-link">Contato</a></li>
+  </ul>
+  <br><br>
+
+  <h2>Navegação Abas Vertical </h2>
+  <ul class="nav nav-pills flex-column">
+    <li class="nav-item "><a href="" class="nav-link">Home</a></li>
+    <li class="nav-item"><a href="" class="nav-link active">Sobre</a></li>
+    <li class="nav-item"><a href="" class="nav-link">Serviços</a></li>
+    <li class="nav-item"><a href="" class="nav-link disabled">Contato</a></li>
+  </ul>
+
+  <h2>Barra de Navegação Simples</h2>
+    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+      <a href="" class="navbar-brand">Logo Site</a>
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Sobre</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Serviços</a></li>
+      </ul>
+    </nav>
+    <br><br>
+
+
+    <h2>Barra de Navegação Responsiva</h2>
+    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+      <a href="" class="navbar-brand">Logo Site</a>
+      <!-- Menu Hamburguer -->
+      <button class="navbar-toggler" data-toggle="collapse" data-target="#nav-target">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="nav-target">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">Sobre</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">Serviços</a></li>
+        </ul>
+      </div>
+    </nav>
+    <br><br>
+
+    <h2>Barra de Navegação com Formulário</h2>
+    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+      <a href="" class="navbar-brand">Logo Site</a>
+      <!-- Menu Hamburguer -->
+      <button class="navbar-toggler" data-toggle="collapse" data-target="#nav-target2">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="nav-target2">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">Sobre</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">Serviços</a></li>
+        </ul>
+        <!-- Formulário de Pesquisa-->
+      <form action="" class="form-inline">
+        <input type="text" class="form-control" placeholder="Pesquisar...">
+        <button class="btn btn-outline-info">OK</button>
+      </form>
+      </div>
+      
+    </nav>
+    <br><br>
+
+    <h2>Barra de Navegação com DropDown</h2>
+    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+      <a href="" class="navbar-brand">Logo Site</a>
+      <!-- Menu Hamburguer -->
+      <button class="navbar-toggler" data-toggle="collapse" data-target="#nav-target3">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="nav-target3">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">Sobre</a></li>
+          <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Serviços</a>
+            
+            <div class="dropdown-menu">
+              <a href="" class="dropdown-item">Serviço 1</a>
+              <a href="" class="dropdown-item">Serviço 2</a>
+              <a href="" class="dropdown-item">Serviço 3</a>
+            </div>
+
+          </li>
+
+        </ul>
+      </div>
+      
+    </nav>
+    <br><br>
+
+
+    <h2>Barra de Navegação - Mudando cores</h2>
+    <nav class="navbar navbar-expand-sm navbar-dark bg-warning ">
+      <a href="" class="navbar-brand">Logo Site</a>
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Sobre</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Serviços</a></li>
+      </ul>
+    </nav>
+    <br><br>
+
+
+    <h2>Barra de Navegação - Alinhamentos</h2>
+    <nav class="navbar sticky-top navbar-expand-sm navbar-dark bg-danger ">
+      <a href="" class="navbar-brand">Logo Site</a>
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Sobre</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Serviços</a></li>
+      </ul>
+    </nav>
+    <br><br>
+
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium perspiciatis sit reiciendis omnis? Eligendi dolores vero consequatur cupiditate iure. Consequuntur reiciendis earum quam saepe! Quasi quisquam libero maiores cum accusamus!
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium perspiciatis sit reiciendis omnis? Eligendi dolores vero consequatur cupiditate iure. Consequuntur reiciendis earum quam saepe! Quasi quisquam libero maiores cum accusamus!
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium perspiciatis sit reiciendis omnis? Eligendi dolores vero consequatur cupiditate iure. Consequuntur reiciendis earum quam saepe! Quasi quisquam libero maiores cum accusamus!
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium perspiciatis sit reiciendis omnis? Eligendi dolores vero consequatur cupiditate iure. Consequuntur reiciendis earum quam saepe! Quasi quisquam libero maiores cum accusamus!
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium perspiciatis sit reiciendis omnis? Eligendi dolores vero consequatur cupiditate iure. Consequuntur reiciendis earum quam saepe! Quasi quisquam libero maiores cum accusamus!
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium perspiciatis sit reiciendis omnis? Eligendi dolores vero consequatur cupiditate iure. Consequuntur reiciendis earum quam saepe! Quasi quisquam libero maiores cum accusamus!
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium perspiciatis sit reiciendis omnis? Eligendi dolores vero consequatur cupiditate iure. Consequuntur reiciendis earum quam saepe! Quasi quisquam libero maiores cum accusamus!
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium perspiciatis sit reiciendis omnis? Eligendi dolores vero consequatur cupiditate iure. Consequuntur reiciendis earum quam saepe! Quasi quisquam libero maiores cum accusamus!
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium perspiciatis sit reiciendis omnis? Eligendi dolores vero consequatur cupiditate iure. Consequuntur reiciendis earum quam saepe! Quasi quisquam libero maiores cum accusamus!
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+    integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+    crossorigin="anonymous"></script>
+  <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

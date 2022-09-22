@@ -1,0 +1,10 @@
+body {
+    color: white;
+
+}
+
+.fundo {
+    background: black url('img/chamas.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

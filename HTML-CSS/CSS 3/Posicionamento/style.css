@@ -1,0 +1,54 @@
+body{
+    background-color: #007fc7;
+}
+/*Quando usamos um position no conteiner 
+todos os objetos dentro dele que estiver como obsolute ficaram alinhados
+dentro dele sem sair do conteiner.*/
+#container{
+    background: #fff;
+    width: 800px;
+    margin: 10px auto;
+    padding: 10px;
+    position: relative;
+}
+
+h1{
+
+}
+
+p{
+    width: 300px;
+
+}
+
+.relative{
+    border: 1px solid red;
+    position: relative;
+    /*Com position = relative usa-se para movimentar 
+    essas propriedades: top, right, bottom, left*/
+    left: 400px;
+    bottom: 180px;
+}
+/*A posição Absolute sempre vai ficar sobre todos os 
+objetos staticos. Caso esteja dentro de um container ele 
+vai se alinhar ao objeto que não estiver estitico no caso
+o alinhamento foi feito ao body.*/
+.absolute{
+    position: absolute;
+    border: 1px solid red;
+    top: 0px;
+    background: #f2f2f2;
+    right: 80px;
+    top: 80px;   
+}
+/*A posição fixo é utilizado para fixar um item na tela.
+Quando fazemos a rolagem da pagina esse item fica fixo e 
+não se movimenta junto com a pagina. */
+.fixo{
+    position: fixed;
+    border: 1px solid red;
+    background: #f2f2f2;
+    top: 0px;
+    left: 20px;
+    
+}

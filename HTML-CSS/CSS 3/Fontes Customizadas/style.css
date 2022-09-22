@@ -1,0 +1,16 @@
+/*----- Para poder usar uma fonte customizada precisa ser feito 
+uma conversão de TTF em WOFF
+Podemos usar o site: https://transfonter.org/
+
+*/
+
+/*Usa-se o @font-face para definir as fontes customizadas no site
+com esse comando mesmo que o usuário não tenha a fonte ela vai carregar.*/
+@font-face {
+    font-family: "Road Rage";
+    src: url(fonts/RoadRage.woff);
+}
+
+h1{
+    font-family: "Road Rage";
+}

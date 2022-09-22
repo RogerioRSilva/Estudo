@@ -1,0 +1,23 @@
+/* 
+Seletor do tipo Universal - Aborda todos os elementos da pagina.
+*{
+    border: 1px solid red;
+}
+*/
+
+/*
+*********************************************
+Seletor do Tipo Filho*/
+li>a {
+    color: red;
+    text-decoration: none;
+
+}
+
+/*
+**********************************************
+Seletor do Tipo Descendente
+*/
+p a {
+    color: green;
+}

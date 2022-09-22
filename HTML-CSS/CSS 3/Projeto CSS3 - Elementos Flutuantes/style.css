@@ -1,0 +1,54 @@
+body{
+    background: #f1f2f3;
+}
+.conteudo{
+    background: blue;
+    border: 1px solid gray;
+    width: 200px;
+    height: 200px;
+    float: right;
+    margin: 10px;
+}
+
+.conteudo1{
+    background: red;
+    border: 1px solid gray;
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+.conteudo-zero{
+    background: red;
+    border: 1px solid gray;
+    width: 200px;
+    height: 200px;
+ 
+}
+/* Clear faz a limpeza do fluxo flutuante
+left, right e both = ambas */
+.clear{
+    clear: both;
+}
+#principal{
+    border: 5px solid red;
+    background: green;
+}
+
+#Principal1{
+    background: white;
+    width: 920px;
+}
+.noticia{
+    background: #e5e5e5;
+    padding: 5px;
+    width: 280px;
+    margin: 5px;
+    float: left;
+}
+.imagem-galeria{
+    background: white;
+    width: 265px;
+    padding: 5px;
+    float: left;
+    margin: 15px;
+}

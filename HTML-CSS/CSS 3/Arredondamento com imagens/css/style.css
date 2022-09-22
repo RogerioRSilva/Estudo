@@ -1,0 +1,15 @@
+.caixa{
+    width: 400px;
+    background: #dedede url(../img/arquivos-necessarios-arredondamento-com-imagens/fundo-arredondamento.png)repeat-y;
+}
+
+.caixa p{
+    background: url(../img/arquivos-necessarios-arredondamento-com-imagens/baixo2.png) no-repeat left bottom;
+    padding: 0px 20px;
+    
+}
+
+.caixa h2{
+    background: url(../img/arquivos-necessarios-arredondamento-com-imagens/topo2.png) no-repeat left top;
+    padding: 10px 20px 0 20px;
+}
