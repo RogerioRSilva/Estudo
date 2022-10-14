@@ -1,0 +1,25 @@
+package fundamentos;
+
+public class DesafioOperadoresAritiméticos {
+
+	public static void main(String[] args) {
+		
+		var formula1 = 6*(3+2); 
+		
+		var formulaElevada2 = Math.pow(formula1, 2);
+		
+		var formula2 = formulaElevada2 / (3 * 2);
+		
+		var formula3 = ((1-5)*(2-7) / 2);
+		
+		var formula3Elevada2 = Math.pow(formula3, 2);
+		
+		double formulaCompleta = (Math.pow((formula2 - formula3Elevada2), 3 )) / Math.pow(10, 3);
+		
+		int formulaCompleta2 = (int) formulaCompleta;
+
+		System.out.printf("O resultado da formula e: %d",formulaCompleta2);
+		
+	}
+	
+}

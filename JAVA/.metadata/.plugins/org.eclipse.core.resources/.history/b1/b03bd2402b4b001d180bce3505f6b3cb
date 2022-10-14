@@ -1,0 +1,16 @@
+package fundamentos;
+
+public class TipoString {
+	
+	public static void main(String[] args) {
+		System.out.println("Ola pessoal".charAt(5));
+		
+		String s = "Boa tarde";
+		System.out.println(s.concat("!!!"));
+		System.out.println(s.startsWith("Boa")); // começa com uma letra ou palavra específica
+		System.out.println(s.startsWith("boa"));
+		System.out.println(s.endsWith("tarde")); // termina com uma letra ou palavra específica
+		System.out.println(s.length());
+		
+	}
+}

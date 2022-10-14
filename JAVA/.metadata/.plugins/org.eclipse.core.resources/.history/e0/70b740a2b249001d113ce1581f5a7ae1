@@ -1,0 +1,11 @@
+package fundamentos;
+
+public class Converção_de_Graus {
+	public static void main(String[] args) {
+		double grau_cel = 37;
+		
+		double farenheit = grau_cel + 1.8 + 32;
+		
+		System.out.println("A conversao de " + grau_cel +"C em Farenheit eh: " + farenheit + "F" );
+	}
+}

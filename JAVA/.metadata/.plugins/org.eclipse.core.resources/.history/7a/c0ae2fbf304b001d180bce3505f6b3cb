@@ -1,0 +1,17 @@
+package fundamentos;
+
+import java.util.Scanner;
+
+public class Console {
+	public static void main(String[] args) {
+		System.out.println("OLA TUDO BEM!!!");
+   		System.out.print("BOM");
+   		System.out.print(" DIA");
+		System.out.println("==============================================\n");
+   		
+		Scanner entrada = new Scanner (System.in);
+   		System.out.println("Qual o seu nome: ");
+   		entrada.nextLine();
+   		System.out.printf("Olá meu nome é %s.", entrada);
+	}
+}

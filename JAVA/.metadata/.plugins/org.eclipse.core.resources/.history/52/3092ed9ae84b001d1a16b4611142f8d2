@@ -1,0 +1,9 @@
+package fundamentos;
+
+public class ConversaoTiposPrimitivosNumericos {
+	public static void main(String[] args) {
+		Integer num1 = 100000;
+		System.out.println(num1.toString());
+		System.out.println(num1.toString().length());
+	}
+}

@@ -1,0 +1,18 @@
+package fundamentos;
+
+public class Primeiro_programa {
+
+	// Uma sentença de código termina com ;
+	public static void main(String[] args) {
+		System.out.println("Olá Mundo!!!");
+
+		/*
+		 * Aqui posso fazer comentários com mais de uma linha. Sendo possível documentar
+		 * o seu códgio.
+		 * 
+		 * O Comando CTRL + / comenta o que for selecionado
+		 */
+		
+		System.out.println("Agora estou aprendendo a comentar no JAVA.");
+	}
+}
