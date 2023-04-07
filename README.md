@@ -1,8 +1,6 @@
 # Estudando - Desenvolvimento de Softwares.
 
-<h2 style="Color: #0E446D">Material de Estudo</h2>
-
- > Aprendendo desenvolvimento de sites!!!
+<h2 style:"Color: #0E446D">Material de Estudo</h2>
 
  > Linguagens estudadas: 
     {JAVA} - {JavaScript} - {Python} - {HTML 5} - {CSS 3} - {Bootstrap} - {React/Redux}
