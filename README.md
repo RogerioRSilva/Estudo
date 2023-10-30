@@ -12,7 +12,7 @@
     {SQL Server 2019} - {PostgreSQL} - {MongoDB} - {MySQL}
  <hr>
  > Cloud Computing estudando:
-     - BigData 100%
+     <li>BigData 100%</li>
      - AWS Bucket S3 30%
      - AWS - ECS(Elastic Container Service) 30%
      - DataMesh 60%
