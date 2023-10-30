@@ -11,8 +11,8 @@
  > Bancos de dados estudados:
     {SQL Server 2019} - {PostgreSQL} - {MongoDB} - {MySQL}
  
- > Cloud Computing --> Estudando:
-    {BigData} - {AWS Bucket S3} - {AWS - ECS(Elastic Container Server)} - {DataMesh}
+ > Cloud Computing estudando:
+    { BigData 100% } - { AWS Bucket S3 30% } - {AWS - ECS(Elastic Container Service) 30% } - { DataMesh 60% }
 
  > Envolunção e aprendizado:
    - Aprendendo a trabalhar com Observability (Grafana, Splunk, Prometheus)
