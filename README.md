@@ -11,7 +11,8 @@
  > Bancos de dados estudados:
     {SQL Server 2019} - {PostgreSQL} - {MongoDB} - {MySQL}
  <hr>
- > Cloud Computing estudando:
+ 
+ <h2 color: #0E446D>Cloud Computing estudando:</h2>
      <li>BigData 100%</li>
      - AWS Bucket S3 30%
      - AWS - ECS(Elastic Container Service) 30%
