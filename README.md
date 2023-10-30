@@ -10,7 +10,7 @@
  
  > Bancos de dados estudados:
     {SQL Server 2019} - {PostgreSQL} - {MongoDB} - {MySQL}
- 
+ <hr>
  > Cloud Computing estudando:
      - BigData 100%
      - AWS Bucket S3 30%
