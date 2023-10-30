@@ -10,9 +10,13 @@
  
  > Bancos de dados estudados:
     {SQL Server 2019} - {PostgreSQL} - {MongoDB} - {MySQL}
-    
+ 
+ > Cloud Computing Estudando:
+    {BigData} - {AWS Bucket S3} - {AWS - ECS(Elastic Container Server)} - {DataMesh}
+
  > Envolunção e aprendizado:
    - Aprendendo a trabalhar com Observability (Grafana, Splunk, Prometheus)
    - Trabalhando com AWS ( S3, ECS, Dynamo, CloudWatch) 
    - Começando a estudar Kafka e DataMesh (Pesquisa de Conceitos)
    - Aprendendo Boas praticas na utilização do SpringBoot
+   
