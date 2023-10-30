@@ -12,15 +12,16 @@
     {SQL Server 2019} - {PostgreSQL} - {MongoDB} - {MySQL}
  <hr>
  
- <h2 color: #0E446D>Cloud Computing estudando:</h2>
-     <li>BigData 100%</li>
-     - AWS Bucket S3 30%
-     - AWS - ECS(Elastic Container Service) 30%
-     - DataMesh 60%
+ <h2 color: #0E446D>Cloud Computing Estudando:</h2>
+     <li>BigData <span>100%</span></li>
+     <li>AWS Bucket S3 <span>30%</span></li> 
+     <li>AWS - ECS(Elastic Container Service) <span>30%</span></li> 
+     <li>DataMesh <span>60%</span></li>
+<hr>
 
- > Envolunção e aprendizado:
-   - Aprendendo a trabalhar com Observability (Grafana, Splunk, Prometheus)
-   - Trabalhando com AWS ( S3, ECS, Dynamo, CloudWatch) 
-   - Começando a estudar Kafka e DataMesh (Pesquisa de Conceitos)
-   - Aprendendo Boas praticas na utilização do SpringBoot
+ <h2 color: #0E446D>Evolução e aprendizado:</h2>
+ <li>Aprendendo a trabalhar com Observability (Grafana, Splunk, Prometheus)</li>
+ <li>Trabalhando com AWS ( S3, ECS, Dynamo, CloudWatch) </li>
+ <li>Começando a estudar Kafka e DataMesh (Pesquisa de Conceitos)</li>
+ <li>Aprendendo Boas praticas na utilização do SpringBoot</li>
    
