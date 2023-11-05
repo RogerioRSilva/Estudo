@@ -11,7 +11,7 @@
 //         //se parametro não encontrado 
 // }
 
-var parametro = 4
+var parametro = 2
 
 switch (parametro){
     case 1:
