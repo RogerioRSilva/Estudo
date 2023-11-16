@@ -34,5 +34,7 @@ print(cidades)
 print(60 * '=')
 print()
 
-print(cidades[0])
+print(cidades)
 
+print(len(cidades))
+print(cidades[cidades.index('São Paulo')])
