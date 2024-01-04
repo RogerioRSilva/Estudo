@@ -16,12 +16,11 @@ for c in range(0, 5):
     valor_atual = lista[c]
 
     if lista[c] >= 100.00:
-
         lista[c] = round((lista[c] * (1+0.05)), 2)
         diferenca = round(lista[c] - valor_atual, 2)
-        print(f'Valor atual: R${valor_atual}... Acrescimo: R${diferenca}... Valor Final: R$ {lista[c]}')
-    elif lista[c] < 100.00:
+        print(f'Valor atual: R$ {valor_atual}... Acrescimo: R${diferenca}... Valor Final: R$ {lista[c]}')
 
+    elif lista[c] < 100.00:
         lista[c] = round((lista[c] * (1 + 0.10)), 2)
         diferenca = round(lista[c] - valor_atual, 2)
-        print(f'Valor atual: R${valor_atual}... Acrescimo: R${diferenca}... Valor Final: R$ {lista[c]}')
+        print(f'Valor atual: R$ {valor_atual}... Acrescimo: R${diferenca}... Valor Final: R$ {lista[c]}')

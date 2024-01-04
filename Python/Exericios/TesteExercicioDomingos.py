@@ -1,8 +1,7 @@
-lista1 = []
+import random
 
-for contador in range(5):
-    lista1.append(int(input("Digita um número: ")))
+numeros_aleatorios = random.sample(range(1, 60 + 1), 15)
 
-soma = sum(lista1)
+numeros_aleatorios.sort()
 
-print("E à soma de todos os numeros digitado é:", soma)
+print(numeros_aleatorios)
