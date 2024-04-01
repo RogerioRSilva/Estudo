@@ -1,0 +1,16 @@
+D:\UNINOVE\ProjetosC#\HelloWord\HelloWord\bin\Debug\net8.0-windows\HelloWord.exe
+D:\UNINOVE\ProjetosC#\HelloWord\HelloWord\bin\Debug\net8.0-windows\HelloWord.deps.json
+D:\UNINOVE\ProjetosC#\HelloWord\HelloWord\bin\Debug\net8.0-windows\HelloWord.runtimeconfig.json
+D:\UNINOVE\ProjetosC#\HelloWord\HelloWord\bin\Debug\net8.0-windows\HelloWord.dll
+D:\UNINOVE\ProjetosC#\HelloWord\HelloWord\bin\Debug\net8.0-windows\HelloWord.pdb
+D:\UNINOVE\ProjetosC#\HelloWord\HelloWord\obj\Debug\net8.0-windows\HelloWord.Form1.resources
+D:\UNINOVE\ProjetosC#\HelloWord\HelloWord\obj\Debug\net8.0-windows\HelloWord.csproj.GenerateResource.cache
+D:\UNINOVE\ProjetosC#\HelloWord\HelloWord\obj\Debug\net8.0-windows\HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNINOVE\ProjetosC#\HelloWord\HelloWord\obj\Debug\net8.0-windows\HelloWord.AssemblyInfoInputs.cache
+D:\UNINOVE\ProjetosC#\HelloWord\HelloWord\obj\Debug\net8.0-windows\HelloWord.AssemblyInfo.cs
+D:\UNINOVE\ProjetosC#\HelloWord\HelloWord\obj\Debug\net8.0-windows\HelloWord.csproj.CoreCompileInputs.cache
+D:\UNINOVE\ProjetosC#\HelloWord\HelloWord\obj\Debug\net8.0-windows\HelloWord.dll
+D:\UNINOVE\ProjetosC#\HelloWord\HelloWord\obj\Debug\net8.0-windows\refint\HelloWord.dll
+D:\UNINOVE\ProjetosC#\HelloWord\HelloWord\obj\Debug\net8.0-windows\HelloWord.pdb
+D:\UNINOVE\ProjetosC#\HelloWord\HelloWord\obj\Debug\net8.0-windows\HelloWord.genruntimeconfig.cache
+D:\UNINOVE\ProjetosC#\HelloWord\HelloWord\obj\Debug\net8.0-windows\ref\HelloWord.dll
