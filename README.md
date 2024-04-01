@@ -24,4 +24,5 @@
  <li>Trabalhando com AWS ( S3, ECS, Dynamo, CloudWatch) </li>
  <li>Começando a estudar Kafka e DataMesh (Pesquisa de Conceitos)</li>
  <li>Aprendendo Boas praticas na utilização do SpringBoot</li>
+ <li>Começando a estudar C# e .NET</li>
    
