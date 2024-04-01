@@ -1,0 +1,16 @@
+D:\UNINOVE\ProjetosC#\UsandoVariaveis\UsandoVariaveis\bin\Debug\net8.0-windows\UsandoVariaveis.exe
+D:\UNINOVE\ProjetosC#\UsandoVariaveis\UsandoVariaveis\bin\Debug\net8.0-windows\UsandoVariaveis.deps.json
+D:\UNINOVE\ProjetosC#\UsandoVariaveis\UsandoVariaveis\bin\Debug\net8.0-windows\UsandoVariaveis.runtimeconfig.json
+D:\UNINOVE\ProjetosC#\UsandoVariaveis\UsandoVariaveis\bin\Debug\net8.0-windows\UsandoVariaveis.dll
+D:\UNINOVE\ProjetosC#\UsandoVariaveis\UsandoVariaveis\bin\Debug\net8.0-windows\UsandoVariaveis.pdb
+D:\UNINOVE\ProjetosC#\UsandoVariaveis\UsandoVariaveis\obj\Debug\net8.0-windows\UsandoVariaveis.Form1.resources
+D:\UNINOVE\ProjetosC#\UsandoVariaveis\UsandoVariaveis\obj\Debug\net8.0-windows\UsandoVariaveis.csproj.GenerateResource.cache
+D:\UNINOVE\ProjetosC#\UsandoVariaveis\UsandoVariaveis\obj\Debug\net8.0-windows\UsandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNINOVE\ProjetosC#\UsandoVariaveis\UsandoVariaveis\obj\Debug\net8.0-windows\UsandoVariaveis.AssemblyInfoInputs.cache
+D:\UNINOVE\ProjetosC#\UsandoVariaveis\UsandoVariaveis\obj\Debug\net8.0-windows\UsandoVariaveis.AssemblyInfo.cs
+D:\UNINOVE\ProjetosC#\UsandoVariaveis\UsandoVariaveis\obj\Debug\net8.0-windows\UsandoVariaveis.csproj.CoreCompileInputs.cache
+D:\UNINOVE\ProjetosC#\UsandoVariaveis\UsandoVariaveis\obj\Debug\net8.0-windows\UsandoVariaveis.dll
+D:\UNINOVE\ProjetosC#\UsandoVariaveis\UsandoVariaveis\obj\Debug\net8.0-windows\refint\UsandoVariaveis.dll
+D:\UNINOVE\ProjetosC#\UsandoVariaveis\UsandoVariaveis\obj\Debug\net8.0-windows\UsandoVariaveis.pdb
+D:\UNINOVE\ProjetosC#\UsandoVariaveis\UsandoVariaveis\obj\Debug\net8.0-windows\UsandoVariaveis.genruntimeconfig.cache
+D:\UNINOVE\ProjetosC#\UsandoVariaveis\UsandoVariaveis\obj\Debug\net8.0-windows\ref\UsandoVariaveis.dll
