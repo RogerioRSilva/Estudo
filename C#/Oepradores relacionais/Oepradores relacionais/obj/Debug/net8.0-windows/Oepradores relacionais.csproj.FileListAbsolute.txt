@@ -1,0 +1,17 @@
+D:\UNINOVE\ProjetosC#\Oepradores relacionais\Oepradores relacionais\bin\Debug\net8.0-windows\Oepradores relacionais.exe
+D:\UNINOVE\ProjetosC#\Oepradores relacionais\Oepradores relacionais\bin\Debug\net8.0-windows\Oepradores relacionais.deps.json
+D:\UNINOVE\ProjetosC#\Oepradores relacionais\Oepradores relacionais\bin\Debug\net8.0-windows\Oepradores relacionais.runtimeconfig.json
+D:\UNINOVE\ProjetosC#\Oepradores relacionais\Oepradores relacionais\bin\Debug\net8.0-windows\Oepradores relacionais.dll
+D:\UNINOVE\ProjetosC#\Oepradores relacionais\Oepradores relacionais\bin\Debug\net8.0-windows\Oepradores relacionais.pdb
+D:\UNINOVE\ProjetosC#\Oepradores relacionais\Oepradores relacionais\obj\Debug\net8.0-windows\Oepradores_relacionais.Form1.resources
+D:\UNINOVE\ProjetosC#\Oepradores relacionais\Oepradores relacionais\obj\Debug\net8.0-windows\Oepradores relacionais.csproj.GenerateResource.cache
+D:\UNINOVE\ProjetosC#\Oepradores relacionais\Oepradores relacionais\obj\Debug\net8.0-windows\Oepradores relacionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNINOVE\ProjetosC#\Oepradores relacionais\Oepradores relacionais\obj\Debug\net8.0-windows\Oepradores relacionais.AssemblyInfoInputs.cache
+D:\UNINOVE\ProjetosC#\Oepradores relacionais\Oepradores relacionais\obj\Debug\net8.0-windows\Oepradores relacionais.AssemblyInfo.cs
+D:\UNINOVE\ProjetosC#\Oepradores relacionais\Oepradores relacionais\obj\Debug\net8.0-windows\Oepradores relacionais.csproj.CoreCompileInputs.cache
+D:\UNINOVE\ProjetosC#\Oepradores relacionais\Oepradores relacionais\obj\Debug\net8.0-windows\Oepradores relacionais.dll
+D:\UNINOVE\ProjetosC#\Oepradores relacionais\Oepradores relacionais\obj\Debug\net8.0-windows\refint\Oepradores relacionais.dll
+D:\UNINOVE\ProjetosC#\Oepradores relacionais\Oepradores relacionais\obj\Debug\net8.0-windows\Oepradores relacionais.pdb
+D:\UNINOVE\ProjetosC#\Oepradores relacionais\Oepradores relacionais\obj\Debug\net8.0-windows\Oepradores relacionais.genruntimeconfig.cache
+D:\UNINOVE\ProjetosC#\Oepradores relacionais\Oepradores relacionais\obj\Debug\net8.0-windows\ref\Oepradores relacionais.dll
+D:\UNINOVE\ProjetosC#\Oepradores relacionais\Oepradores relacionais\obj\Debug\net8.0-windows\Oepradores_relacionais.Form2.resources

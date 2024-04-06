@@ -1,0 +1,16 @@
+D:\UNINOVE\ProjetosC#\DesvioCondicionalComposto\DesvioCondicionalComposto\bin\Debug\net8.0-windows\DesvioCondicionalComposto.exe
+D:\UNINOVE\ProjetosC#\DesvioCondicionalComposto\DesvioCondicionalComposto\bin\Debug\net8.0-windows\DesvioCondicionalComposto.deps.json
+D:\UNINOVE\ProjetosC#\DesvioCondicionalComposto\DesvioCondicionalComposto\bin\Debug\net8.0-windows\DesvioCondicionalComposto.runtimeconfig.json
+D:\UNINOVE\ProjetosC#\DesvioCondicionalComposto\DesvioCondicionalComposto\bin\Debug\net8.0-windows\DesvioCondicionalComposto.dll
+D:\UNINOVE\ProjetosC#\DesvioCondicionalComposto\DesvioCondicionalComposto\bin\Debug\net8.0-windows\DesvioCondicionalComposto.pdb
+D:\UNINOVE\ProjetosC#\DesvioCondicionalComposto\DesvioCondicionalComposto\obj\Debug\net8.0-windows\DesvioCondicionalComposto.Form1.resources
+D:\UNINOVE\ProjetosC#\DesvioCondicionalComposto\DesvioCondicionalComposto\obj\Debug\net8.0-windows\DesvioCondicionalComposto.csproj.GenerateResource.cache
+D:\UNINOVE\ProjetosC#\DesvioCondicionalComposto\DesvioCondicionalComposto\obj\Debug\net8.0-windows\DesvioCondicionalComposto.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNINOVE\ProjetosC#\DesvioCondicionalComposto\DesvioCondicionalComposto\obj\Debug\net8.0-windows\DesvioCondicionalComposto.AssemblyInfoInputs.cache
+D:\UNINOVE\ProjetosC#\DesvioCondicionalComposto\DesvioCondicionalComposto\obj\Debug\net8.0-windows\DesvioCondicionalComposto.AssemblyInfo.cs
+D:\UNINOVE\ProjetosC#\DesvioCondicionalComposto\DesvioCondicionalComposto\obj\Debug\net8.0-windows\DesvioCondicionalComposto.csproj.CoreCompileInputs.cache
+D:\UNINOVE\ProjetosC#\DesvioCondicionalComposto\DesvioCondicionalComposto\obj\Debug\net8.0-windows\DesvioCondicionalComposto.dll
+D:\UNINOVE\ProjetosC#\DesvioCondicionalComposto\DesvioCondicionalComposto\obj\Debug\net8.0-windows\refint\DesvioCondicionalComposto.dll
+D:\UNINOVE\ProjetosC#\DesvioCondicionalComposto\DesvioCondicionalComposto\obj\Debug\net8.0-windows\DesvioCondicionalComposto.pdb
+D:\UNINOVE\ProjetosC#\DesvioCondicionalComposto\DesvioCondicionalComposto\obj\Debug\net8.0-windows\DesvioCondicionalComposto.genruntimeconfig.cache
+D:\UNINOVE\ProjetosC#\DesvioCondicionalComposto\DesvioCondicionalComposto\obj\Debug\net8.0-windows\ref\DesvioCondicionalComposto.dll

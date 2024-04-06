@@ -1,0 +1,16 @@
+D:\UNINOVE\ProjetosC#\Estrutura de repetição\Estrutura de repetição\bin\Debug\net8.0-windows\Estrutura de repetição.exe
+D:\UNINOVE\ProjetosC#\Estrutura de repetição\Estrutura de repetição\bin\Debug\net8.0-windows\Estrutura de repetição.deps.json
+D:\UNINOVE\ProjetosC#\Estrutura de repetição\Estrutura de repetição\bin\Debug\net8.0-windows\Estrutura de repetição.runtimeconfig.json
+D:\UNINOVE\ProjetosC#\Estrutura de repetição\Estrutura de repetição\bin\Debug\net8.0-windows\Estrutura de repetição.dll
+D:\UNINOVE\ProjetosC#\Estrutura de repetição\Estrutura de repetição\bin\Debug\net8.0-windows\Estrutura de repetição.pdb
+D:\UNINOVE\ProjetosC#\Estrutura de repetição\Estrutura de repetição\obj\Debug\net8.0-windows\Estrutura_de_repetição.Form1.resources
+D:\UNINOVE\ProjetosC#\Estrutura de repetição\Estrutura de repetição\obj\Debug\net8.0-windows\Estrutura de repetição.csproj.GenerateResource.cache
+D:\UNINOVE\ProjetosC#\Estrutura de repetição\Estrutura de repetição\obj\Debug\net8.0-windows\Estrutura de repetição.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNINOVE\ProjetosC#\Estrutura de repetição\Estrutura de repetição\obj\Debug\net8.0-windows\Estrutura de repetição.AssemblyInfoInputs.cache
+D:\UNINOVE\ProjetosC#\Estrutura de repetição\Estrutura de repetição\obj\Debug\net8.0-windows\Estrutura de repetição.AssemblyInfo.cs
+D:\UNINOVE\ProjetosC#\Estrutura de repetição\Estrutura de repetição\obj\Debug\net8.0-windows\Estrutura de repetição.csproj.CoreCompileInputs.cache
+D:\UNINOVE\ProjetosC#\Estrutura de repetição\Estrutura de repetição\obj\Debug\net8.0-windows\Estrutura de repetição.dll
+D:\UNINOVE\ProjetosC#\Estrutura de repetição\Estrutura de repetição\obj\Debug\net8.0-windows\refint\Estrutura de repetição.dll
+D:\UNINOVE\ProjetosC#\Estrutura de repetição\Estrutura de repetição\obj\Debug\net8.0-windows\Estrutura de repetição.pdb
+D:\UNINOVE\ProjetosC#\Estrutura de repetição\Estrutura de repetição\obj\Debug\net8.0-windows\Estrutura de repetição.genruntimeconfig.cache
+D:\UNINOVE\ProjetosC#\Estrutura de repetição\Estrutura de repetição\obj\Debug\net8.0-windows\ref\Estrutura de repetição.dll
