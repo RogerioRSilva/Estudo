@@ -1,0 +1,37 @@
+
+-- Após inserção do arquivo com o comando git add . posso fazer a remoção de algum arquivo, 
+que não quero subir no momento atravez do comando abaixo: 
+
+	git rm --cached nome_do_arquivo
+	
+==============================================================================================
+
+-- Validação de alterações feitas no código atravez do terminal
+	
+	git diff
+	
+==============================================================================================
+
+-- Verificar as alterações feitas atravez de logs
+
+	git log
+	
+-- Exibe o ultimo log
+
+	git log --oneline
+	
+==============================================================================================
+
+-- Faz o commit sem precisar fazer o git add pulando diretamente uma etapa 
+		
+		(Obs.: Tenha certeza que esteja tudo OK com o código)
+
+	git commit -a -m'mensagem do commit'
+	
+===============================================================================================
+
+-- Restaurar um arquivo removido do diretorio do seu repositório que já estava versionado (Commitado).
+
+	git restore nome_do_arquivo
+	
+===============================================================================================
