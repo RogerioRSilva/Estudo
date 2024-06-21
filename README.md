@@ -1,16 +1,14 @@
-:::tip 
- Estudando - Desenvolvimento de Softwares.
-:::
+# Estudando - Desenvolvimento de Softwares.
 
 <h2 color: #0E446D >Material de Estudo</h2>
 
- > Projeto Desenvolvido para Estudos:
+ ## Projeto Desenvolvido para Estudos:
     - {API Rest-Full em Java link_Repo: <a>https://github.com/RogerioRSilva/API-RESTFUL-JAVA</a>}
 
- > Linguagens estudadas: 
+ ## Linguagens estudadas: 
     {JAVA} - {JavaScript} - {Python} - {HTML 5} - {CSS 3} - {Bootstrap} - {React/Redux}
  
- > Bancos de dados estudados:
+ ## Bancos de dados estudados:
     {SQL Server 2019} - {PostgreSQL} - {MongoDB} - {MySQL}
  <hr>
  
