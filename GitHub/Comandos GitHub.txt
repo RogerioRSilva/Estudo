@@ -1,0 +1,111 @@
+
+-- Após inserção do arquivo com o comando git add . posso fazer a remoção de algum arquivo, 
+que não quero subir no momento atravez do comando abaixo: 
+
+	git rm --cached nome_do_arquivo
+	
+==============================================================================================
+
+-- Validação de alterações feitas no código atravez do terminal
+	
+	git diff
+	
+==============================================================================================
+
+-- Verificar as alterações feitas atravez de logs
+
+	git log
+	
+-- Exibe o ultimo log
+
+	git log --oneline
+	
+==============================================================================================
+
+-- Faz o commit sem precisar fazer o git add pulando diretamente uma etapa 
+		
+		(Obs.: Tenha certeza que esteja tudo OK com o código)
+
+	git commit -a -m'mensagem do commit'
+	
+===============================================================================================
+
+-- Restaurar um arquivo removido do diretorio do seu repositório que já estava versionado (Commitado).
+
+	git restore nome_do_arquivo
+	
+===============================================================================================
+
+-- Renomeando um arquivo no git
+
+	git mv nome_do_arquivo nome_do_novo_arquivo
+	
+================================================================================================
+
+-- Fazendo a alteração da mensagem do ulitmo commit
+	
+	git commit -m"Mensagem que quer trocar" --amend
+	
+================================================================================================
+
+-- Verificar tudo o que foi alterado nos ultimos commits
+	
+	git log -p
+	
+================================================================================================
+
+-- Fazendo um reset no commit realizado. 
+
+	> Reset do tipo Soft: Mantem o ultimo commit e retorna para o commit que vc indicar, 
+	  mantendo o ultimo commit em staged;
+	
+	git reset --soft id_commit 
+	
+	> Reset do tipo Mixed: Mantem o ultimo commit e retorna para o commit que vc indicar, 
+	  mentendo o commit ultimo commit em unstaged;
+	
+	git reset --mixed id_commit
+	
+	> Reset do tipo Hard: Remove o ultimo commit e retorna para o commit que vc indicar, 
+	  não mantem o ultimo commit sendo impossível retornar depois.
+	
+	git reset --hard id_commit
+	
+================================================================================================
+
+-- Criando um atalho no git, onde o "comando referente ao atalho" pode ser por exemplo commit ou status ou log --oneline, ...
+
+	git config alias.nome_atalho "comando referente ao atalho"
+	
+	chamando o atalho:
+	git nome_atalho
+
+================================================================================================	
+
+-- Criando nova branch
+	git branch nome_da_branch
+	
+-- Mudando de branch
+	git switch nome_da_branch
+
+-- Mesclando as branchs (Tem que fazer na branch main ou na que vc quer mesclar)
+	git merge -m"Mensagem de commit" nome_da_branch
+
+-- Removendo um branch
+	git branch -d nome_da_branch
+	
+-- Comando rápido de criar e mudar de branch
+	git switch -c nome_da_branch
+	
+-- Comando para fazer o push de todas as branchs
+	git push --all
+	
+================================================================================================	
+
+Issue: São problemas encontrados onde pode abrir uma nova branch para correção desse problema e fazer o merge diretamente na branch. 
+Muito importante para manutenção do código. 
+
+================================================================================================
+
+
+
