@@ -1,5 +1,4 @@
 # Estudando - Desenvolvimento de Softwares.
----
 
 ## Material de Estudo
 
