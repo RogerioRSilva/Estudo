@@ -26,6 +26,8 @@
 * C#
 * Terraform
  
+ ---
+
 ### Bancos de dados:
 * SQL Server 2019
 * PostgreSQL
