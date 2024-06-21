@@ -1,6 +1,6 @@
 # Estudando - Desenvolvimento de Softwares.
 
-Todo material que estou estudando ou que já estudei referente a desenvolvimento de softwware
+> Todo material que estou estudando ou que já estudei referente a desenvolvimento de softwware
 
 ### Projeto Desenvolvido para Estudos:
    
